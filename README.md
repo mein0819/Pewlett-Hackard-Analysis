@@ -26,4 +26,6 @@ The table showing the number of retiring employees per job title shows employees
 
 As show above, 72,458 employees are set to retire in the near future, with senior-level positions accounting for well over half of that number. There are only 1,549 employees eligible to be mentors based on their age from being born in 1965. The following table shows the number of those employees grouped by their title: 
 
+![mentor title count](https://github.com/mein0819/Pewlett-Hackard-Analysis/blob/main/readMe_images/mentor_count_title.png)
 
+There's almost a 70:1 ratio of future vacant senior level positions to senior level mentors. There will need to be furthur analysis into expanding the requirements for eligibility to be a part of the mentorship program. There should also be furthur analysis into developing an intercompany pipeline to fill these roles as well as deciding how many positions should be filled from candidates outside of the company. The company also has the option of using this time to look into if streamlining the company is viable. It's possible some of these postions aren't necessary or can be consolidated into other positions or departments. 
