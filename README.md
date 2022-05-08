@@ -16,4 +16,8 @@ The table showing the number of retiring employees per job title shows employees
 - Of these employees, there will be 50,844 senior level and management positions to be filled
 - There will be 21,614 mid to entry-level and staff positions to be filled
   
-  ![retiring_titles](
+  ![retiring_titles](https://github.com/mein0819/Pewlett-Hackard-Analysis/blob/main/readMe_images/retiring_titles.png)
+ 
+- There are 1,549 employees eligible to partcipate as mentors in the mentorship program
+
+
