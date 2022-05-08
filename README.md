@@ -24,7 +24,7 @@ The table showing the number of retiring employees per job title shows employees
 
 ## Summary
 
-As show above, 72,458 employees are set to retire in the near future, with senior-level positions accounting for well over half of that number. There are only 1,549 employees eligible to be mentors based on their age from being born in 1965. The following table shows the number of those employees grouped by their title: 
+As shown above, 72,458 employees are set to retire in the near future, with senior-level positions accounting for well over half of that number. There are only 1,549 employees eligible to be mentors based on their age from being born in 1965. The following table shows the number of those employees grouped by their title: 
 
 ![mentor title count](https://github.com/mein0819/Pewlett-Hackard-Analysis/blob/main/readMe_images/mentor_count_title.png)
 
