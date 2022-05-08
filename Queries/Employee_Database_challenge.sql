@@ -16,6 +16,7 @@ ORDER BY e.emp_no;
 -- Create Unique Titles table to store most recent titles
 -- of employees from retirement titles table
 SELECT DISTINCT ON (rt.emp_no)
+					rt.emp_no,
 					rt.first_name,
 					rt.last_name,
 					rt.title
@@ -23,6 +24,7 @@ INTO unique_titles
 FROM retirement_titles as rt
 WHERE rt.to_date = '9999-01-01'
 ORDER BY rt.emp_no, rt.to_date DESC;
+
 
 --Retrieve the number of employees by their most recent
 --job title who are about to retire
